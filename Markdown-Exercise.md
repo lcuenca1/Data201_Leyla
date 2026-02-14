@@ -68,5 +68,5 @@ This list shows the tasks I need to complete this week[^1].
 
 
 ### 9. Footnote
-[^1]: List of pending tasks for this week
+[^1]: List of pending tasks for this week  
 
